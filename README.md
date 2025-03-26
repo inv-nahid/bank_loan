@@ -116,9 +116,6 @@ Loan-Analysis-Dashboard/
 - Add **more advanced DAX calculations** in Power BI
 
 ## Author
-[Nahid Azad] - Data Analyst
-
-## License
-This project is licensed under the MIT License.
+Nahid Azad
 
 
